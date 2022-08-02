@@ -3,7 +3,12 @@
 1
 asfl..dkh.aksjdgfhkjhasdggjh
 
+<<<<<<< HEAD
 asdkjhfkjashdgkljhsa
 
 
 sad.kjhfkalsjdhffkljhasljk
+=======
+465465465465
+////sdlkjflHSD
+>>>>>>> develop
